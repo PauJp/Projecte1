@@ -1,0 +1,1616 @@
+fileFormatVersion: 2
+guid: 1ed6834e8474ac4499e08aef0117ad8d
+timeCreated: 1493067057
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Iguana Charged 1
+    21300002: IGUANA_1
+    21300004: IGUANA_2
+    21300006: IGUANA_3
+    21300008: IGUANA_4
+    21300010: IGUANA_5
+    21300012: IGUANA_6
+    21300014: IGUANA_7
+    21300016: IGUANA_8
+    21300018: IGUANA_9
+    21300020: IGUANA_10
+    21300022: IGUANA_11
+    21300024: IGUANA_12
+    21300026: IGUANA_13
+    21300028: IGUANA_14
+    21300030: IGUANA_15
+    21300032: Iguana Idle 1
+    21300034: Iguana Idle 2
+    21300036: Iguana Idle 3
+    21300038: Iguana Idle 4
+    21300040: IGUANA_20
+    21300042: IGUANA_21
+    21300044: IGUANA_22
+    21300046: IGUANA_23
+    21300048: IGUANA_24
+    21300050: IGUANA_25
+    21300052: IGUANA_26
+    21300054: IGUANA_27
+    21300056: IGUANA_28
+    21300058: IGUANA_29
+    21300060: IGUANA_30
+    21300062: IGUANA_31
+    21300064: IGUANA_32
+    21300066: IGUANA_33
+    21300068: IGUANA_34
+    21300070: IGUANA_35
+    21300072: IGUANA_36
+    21300074: IGUANA_37
+    21300076: IGUANA_38
+    21300078: IGUANA_39
+    21300080: IGUANA_40
+    21300082: IGUANA_41
+    21300084: IGUANA_42
+    21300086: IGUANA_43
+    21300088: Iguana Walk 1
+    21300090: Iguana Walk 2
+    21300092: Iguana Walk 3
+    21300094: Iguana Walk 4
+    21300096: Iguana Walk 5
+    21300098: Iguana Walk 6
+    21300100: IGUANA_50
+    21300102: IGUANA_51
+    21300104: IGUANA_52
+    21300106: IGUANA_53
+    21300108: IGUANA_54
+    21300110: IGUANA_55
+    21300112: IGUANA_56
+    21300114: IGUANA_57
+    21300116: IGUANA_58
+    21300118: IGUANA_59
+    21300120: IGUANA_60
+    21300122: IGUANA_61
+    21300124: IGUANA_62
+    21300126: IGUANA_63
+    21300128: IGUANA_64
+    21300130: IGUANA_65
+    21300132: IGUANA_66
+    21300134: IGUANA_67
+    21300136: Iguana Jump
+    21300138: Iguana Air
+    21300140: Iguana Land
+    21300142: IGUANA_71
+    21300144: IGUANA_72
+    21300146: Iguana Shoot 1
+    21300148: Iguana Shoot 2
+    21300150: Iguana Shoot 3
+    21300152: Iguana Shoot 4
+    21300154: Iguana Particle XL
+    21300156: Iguana Particle L
+    21300158: Iguana Particle M
+    21300160: Iguana Particle S
+    21300162: IGUANA_81
+    21300164: IGUANA_82
+    21300166: IGUANA_83
+    21300168: IGUANA_84
+    21300170: IGUANA_85
+    21300172: IGUANA_86
+    21300174: IGUANA_87
+    21300176: IGUANA_88
+    21300178: IGUANA_89
+    21300180: IGUANA_90
+    21300182: IGUANA_91
+    21300184: IGUANA_92
+    21300186: IGUANA_93
+    21300188: IGUANA_94
+    21300190: IGUANA_95
+    21300192: IGUANA_96
+    21300194: IGUANA_97
+    21300196: IGUANA_98
+    21300198: IGUANA_99
+    21300200: IGUANA_100
+    21300202: IGUANA_101
+    21300204: IGUANA_102
+    21300206: IGUANA_103
+    21300208: IGUANA_104
+    21300210: IGUANA_105
+    21300212: IGUANA_106
+    21300214: IGUANA_107
+    21300216: IGUANA_108
+    21300218: IGUANA_110
+    21300220: Iguana Charged 2
+    21300222: Iguana Charged 3
+    21300224: Iguana Charged Loop 1
+    21300226: Iguana Charged Loop 2
+    21300228: Iguana Ray 1
+    21300230: Iguana to Flama
+    21300232: IGUANA_117
+    21300234: IGUANA_118
+    21300236: IGUANA_119
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.062202547, y: 0.8810505}
+  spriteBorder: {x: 22, y: 473, z: 678, w: 42}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Iguana Idle 1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 473
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iguana Idle 2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 473
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iguana Idle 3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 473
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iguana Idle 4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 473
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iguana Walk 1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 396
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iguana Walk 2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 396
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iguana Walk 3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 396
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iguana Walk 4
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 396
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iguana Walk 5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 396
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iguana Walk 6
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 396
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iguana Jump
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 339
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iguana Air
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 339
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iguana Land
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 339
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iguana Shoot 1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 261
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iguana Shoot 2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 261
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iguana Shoot 3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 261
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iguana Shoot 4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 261
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iguana Particle XL
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 279
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iguana Particle L
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 278
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iguana Particle M
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 278
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iguana Particle S
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 278
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IGUANA_88
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 225
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IGUANA_89
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 224
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IGUANA_94
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 150
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IGUANA_95
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 151
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IGUANA_96
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 161
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IGUANA_97
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 163
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IGUANA_98
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 162
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IGUANA_99
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 162
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IGUANA_100
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 150
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IGUANA_101
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 153
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IGUANA_102
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 156
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IGUANA_103
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 151
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IGUANA_104
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 153
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IGUANA_105
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 156
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IGUANA_106
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 151
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IGUANA_107
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 149
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IGUANA_108
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 148
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iguana Charged 2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 65
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iguana Charged 3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 65
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iguana Charged Loop 1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 65
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iguana Charged Loop 2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 65
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iguana Ray 1
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 86
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iguana to Flama
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 65
+        width: 155
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IGUANA_117
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 18
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IGUANA_118
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 37
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IGUANA_119
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 37
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iguana Charged 1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 65
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -167.5, y: -216.5}
+      - {x: -179.5, y: -223.5}
+      - {x: -179.5, y: -263.5}
+      - {x: -137.5, y: -263.5}
+      - {x: -136.5, y: -254.5}
+      - {x: -136.5, y: -224.5}
+      - {x: -148.5, y: -216.5}
+    - - {x: -126.5, y: -238.5}
+      - {x: -122.5, y: -244.5}
+      - {x: -106.5, y: -244.5}
+      - {x: -106.5, y: -227.5}
+      - {x: -107.5, y: -223.5}
+      - {x: -121.5, y: -223.5}
+      - {x: -126.5, y: -227.5}
+    - - {x: -105.5, y: -238.5}
+      - {x: -101.5, y: -244.5}
+      - {x: -85.5, y: -244.5}
+      - {x: -85.5, y: -227.5}
+      - {x: -86.5, y: -223.5}
+      - {x: -100.5, y: -223.5}
+      - {x: -105.5, y: -227.5}
+    - - {x: -333.5, y: -169.5}
+      - {x: -338.5, y: -171.5}
+      - {x: -348.5, y: -177.5}
+      - {x: -348.5, y: -216.5}
+      - {x: -310.5, y: -216.5}
+      - {x: -305.5, y: -214.5}
+      - {x: -305.5, y: -178.5}
+      - {x: -323.5, y: -169.5}
+    - - {x: -253.5, y: -211.5}
+      - {x: -253.5, y: -205.5}
+      - {x: -251.5, y: -198.5}
+      - {x: -251.5, y: -177.5}
+      - {x: -266.5, y: -169.5}
+      - {x: -289.5, y: -169.5}
+      - {x: -294.5, y: -175.5}
+      - {x: -294.5, y: -216.5}
+      - {x: -265.5, y: -216.5}
+      - {x: -262.5, y: -215.5}
+      - {x: -256.5, y: -214.5}
+    - - {x: -232.5, y: -169.5}
+      - {x: -240.5, y: -175.5}
+      - {x: -240.5, y: -216.5}
+      - {x: -198.5, y: -216.5}
+      - {x: -197.5, y: -215.5}
+      - {x: -197.5, y: -176.5}
+      - {x: -206.5, y: -169.5}
+    - - {x: -166.5, y: -169.5}
+      - {x: -178.5, y: -175.5}
+      - {x: -178.5, y: -216.5}
+      - {x: -135.5, y: -216.5}
+      - {x: -135.5, y: -170.5}
+      - {x: -137.5, y: -169.5}
+    - - {x: -93.5, y: -169.5}
+      - {x: -115.5, y: -169.5}
+      - {x: -117.5, y: -171.5}
+      - {x: -119.5, y: -176.5}
+      - {x: -119.5, y: -216.5}
+      - {x: -84.5, y: -216.5}
+      - {x: -77.5, y: -212.5}
+      - {x: -76.5, y: -206.5}
+      - {x: -76.5, y: -176.5}
+    - - {x: 14.5, y: -169.5}
+      - {x: -23.5, y: -169.5}
+      - {x: -32.5, y: -177.5}
+      - {x: -32.5, y: -216.5}
+      - {x: 3.5, y: -216.5}
+      - {x: 11.5, y: -213.5}
+      - {x: 126.5, y: -195.5}
+      - {x: 126.5, y: -180.5}
+    - - {x: -70.5, y: -181.5}
+      - {x: -72.5, y: -183.5}
+      - {x: -72.5, y: -193.5}
+      - {x: -70.5, y: -195.5}
+      - {x: -61.5, y: -195.5}
+      - {x: -59.5, y: -193.5}
+      - {x: -59.5, y: -183.5}
+      - {x: -61.5, y: -181.5}
+    - - {x: -359.5, y: -100.5}
+      - {x: -365.5, y: -109.5}
+      - {x: -366.5, y: -117.5}
+      - {x: -366.5, y: -138.5}
+      - {x: -317.5, y: -138.5}
+      - {x: -317.5, y: -113.5}
+      - {x: -341.5, y: -100.5}
+    - - {x: -288.5, y: -100.5}
+      - {x: -298.5, y: -100.5}
+      - {x: -314.5, y: -108.5}
+      - {x: -314.5, y: -137.5}
+      - {x: -312.5, y: -138.5}
+      - {x: -266.5, y: -138.5}
+      - {x: -265.5, y: -136.5}
+      - {x: -265.5, y: -129.5}
+      - {x: -270.5, y: -118.5}
+    - - {x: -258.5, y: -137.5}
+      - {x: -257.5, y: -138.5}
+      - {x: -209.5, y: -138.5}
+      - {x: -209.5, y: -128.5}
+      - {x: -213.5, y: -117.5}
+      - {x: -233.5, y: -100.5}
+      - {x: -242.5, y: -100.5}
+      - {x: -258.5, y: -107.5}
+    - - {x: -194.5, y: -100.5}
+      - {x: -204.5, y: -109.5}
+      - {x: -204.5, y: -137.5}
+      - {x: -203.5, y: -138.5}
+      - {x: -155.5, y: -138.5}
+      - {x: -155.5, y: -128.5}
+      - {x: -159.5, y: -117.5}
+      - {x: -183.5, y: -100.5}
+    - - {x: 0.5, y: -116.5}
+      - {x: -11.5, y: -121.5}
+      - {x: -11.5, y: -126.5}
+      - {x: -3.5, y: -133.5}
+      - {x: 4.5, y: -133.5}
+      - {x: 8.5, y: -130.5}
+      - {x: 8.5, y: -119.5}
+      - {x: 6.5, y: -116.5}
+    - - {x: -26.5, y: -117.5}
+      - {x: -23.5, y: -115.5}
+      - {x: -23.5, y: -111.5}
+      - {x: -28.5, y: -106.5}
+      - {x: -31.5, y: -106.5}
+      - {x: -35.5, y: -110.5}
+      - {x: -35.5, y: -113.5}
+      - {x: -33.5, y: -116.5}
+      - {x: -40.5, y: -109.5}
+      - {x: -47.5, y: -109.5}
+      - {x: -52.5, y: -112.5}
+      - {x: -56.5, y: -117.5}
+      - {x: -56.5, y: -129.5}
+      - {x: -52.5, y: -132.5}
+      - {x: -24.5, y: -132.5}
+      - {x: -20.5, y: -123.5}
+      - {x: -20.5, y: -118.5}
+      - {x: -23.5, y: -117.5}
+    - - {x: -138.5, y: -119.5}
+      - {x: -145.5, y: -127.5}
+      - {x: -145.5, y: -131.5}
+      - {x: -125.5, y: -131.5}
+      - {x: -124.5, y: -128.5}
+      - {x: -124.5, y: -122.5}
+      - {x: -126.5, y: -119.5}
+    - - {x: -116.5, y: -112.5}
+      - {x: -123.5, y: -122.5}
+      - {x: -123.5, y: -131.5}
+      - {x: -97.5, y: -131.5}
+      - {x: -93.5, y: -127.5}
+      - {x: -93.5, y: -118.5}
+      - {x: -96.5, y: -112.5}
+    - - {x: -71.5, y: -108.5}
+      - {x: -73.5, y: -112.5}
+      - {x: -73.5, y: -114.5}
+      - {x: -75.5, y: -111.5}
+      - {x: -83.5, y: -109.5}
+      - {x: -92.5, y: -121.5}
+      - {x: -92.5, y: -127.5}
+      - {x: -86.5, y: -130.5}
+      - {x: -68.5, y: -130.5}
+      - {x: -59.5, y: -126.5}
+      - {x: -59.5, y: -111.5}
+      - {x: -66.5, y: -108.5}
+    - - {x: 11.5, y: -119.5}
+      - {x: 8.5, y: -123.5}
+      - {x: 8.5, y: -126.5}
+      - {x: 10.5, y: -130.5}
+      - {x: 15.5, y: -130.5}
+      - {x: 19.5, y: -128.5}
+      - {x: 19.5, y: -120.5}
+      - {x: 16.5, y: -119.5}
+    - - {x: -13.5, y: -115.5}
+      - {x: -11.5, y: -119.5}
+      - {x: -5.5, y: -119.5}
+      - {x: -2.5, y: -118.5}
+      - {x: -2.5, y: -112.5}
+      - {x: -4.5, y: -108.5}
+      - {x: -10.5, y: -108.5}
+      - {x: -13.5, y: -109.5}
+    - - {x: 14.5, y: -108.5}
+      - {x: 8.5, y: -108.5}
+      - {x: 7.5, y: -110.5}
+      - {x: 7.5, y: -118.5}
+      - {x: 11.5, y: -119.5}
+      - {x: 16.5, y: -119.5}
+      - {x: 18.5, y: -116.5}
+      - {x: 18.5, y: -110.5}
+    - - {x: -361.5, y: -32.5}
+      - {x: -369.5, y: -40.5}
+      - {x: -369.5, y: -76.5}
+      - {x: -368.5, y: -77.5}
+      - {x: -322.5, y: -77.5}
+      - {x: -322.5, y: -41.5}
+      - {x: -343.5, y: -32.5}
+    - - {x: -309.5, y: -32.5}
+      - {x: -311.5, y: -37.5}
+      - {x: -311.5, y: -77.5}
+      - {x: -265.5, y: -77.5}
+      - {x: -264.5, y: -75.5}
+      - {x: -264.5, y: -32.5}
+    - - {x: -226.5, y: -32.5}
+      - {x: -241.5, y: -32.5}
+      - {x: -243.5, y: -33.5}
+      - {x: -255.5, y: -41.5}
+      - {x: -255.5, y: -77.5}
+      - {x: -208.5, y: -77.5}
+      - {x: -208.5, y: -52.5}
+      - {x: -209.5, y: -43.5}
+    - - {x: -195.5, y: -32.5}
+      - {x: -205.5, y: -38.5}
+      - {x: -205.5, y: -77.5}
+      - {x: -158.5, y: -77.5}
+      - {x: -158.5, y: -55.5}
+      - {x: -163.5, y: -32.5}
+    - - {x: -136.5, y: -32.5}
+      - {x: -149.5, y: -40.5}
+      - {x: -149.5, y: -74.5}
+      - {x: -147.5, y: -77.5}
+      - {x: -102.5, y: -77.5}
+      - {x: -102.5, y: -36.5}
+      - {x: -112.5, y: -32.5}
+    - - {x: -100.5, y: -32.5}
+      - {x: -100.5, y: -77.5}
+      - {x: -53.5, y: -77.5}
+      - {x: -53.5, y: -42.5}
+      - {x: -72.5, y: -32.5}
+    - - {x: -44.5, y: -32.5}
+      - {x: -44.5, y: -77.5}
+      - {x: 2.5, y: -77.5}
+      - {x: 2.5, y: -39.5}
+      - {x: -11.5, y: -32.5}
+    - - {x: 50.5, y: -47.5}
+      - {x: 36.5, y: -47.5}
+      - {x: 33.5, y: -52.5}
+      - {x: 33.5, y: -53.5}
+      - {x: 39.5, y: -57.5}
+      - {x: 58.5, y: -57.5}
+      - {x: 63.5, y: -54.5}
+      - {x: 63.5, y: -48.5}
+    - - {x: 13.5, y: -47.5}
+      - {x: 10.5, y: -51.5}
+      - {x: 10.5, y: -52.5}
+      - {x: 13.5, y: -56.5}
+      - {x: 21.5, y: -56.5}
+      - {x: 30.5, y: -55.5}
+      - {x: 31.5, y: -54.5}
+      - {x: 31.5, y: -50.5}
+      - {x: 27.5, y: -47.5}
+    - - {x: -363.5, y: 24.5}
+      - {x: -369.5, y: 18.5}
+      - {x: -369.5, y: -19.5}
+      - {x: -368.5, y: -20.5}
+      - {x: -323.5, y: -20.5}
+      - {x: -322.5, y: -18.5}
+      - {x: -322.5, y: 10.5}
+      - {x: -344.5, y: 24.5}
+    - - {x: -310.5, y: 24.5}
+      - {x: -311.5, y: 23.5}
+      - {x: -311.5, y: -20.5}
+      - {x: -264.5, y: -20.5}
+      - {x: -264.5, y: 14.5}
+      - {x: -278.5, y: 24.5}
+    - - {x: -223.5, y: 24.5}
+      - {x: -241.5, y: 24.5}
+      - {x: -250.5, y: 16.5}
+      - {x: -250.5, y: -20.5}
+      - {x: -203.5, y: -20.5}
+      - {x: -203.5, y: 7.5}
+      - {x: -209.5, y: 19.5}
+    - - {x: -188.5, y: 24.5}
+      - {x: -192.5, y: 19.5}
+      - {x: -192.5, y: -20.5}
+      - {x: -145.5, y: -20.5}
+      - {x: -145.5, y: 14.5}
+      - {x: -162.5, y: 24.5}
+    - - {x: -107.5, y: 9.5}
+      - {x: -113.5, y: 5.5}
+      - {x: -113.5, y: 1.5}
+      - {x: -107.5, y: -3.5}
+      - {x: -86.5, y: -3.5}
+      - {x: -84.5, y: 0.5}
+      - {x: -84.5, y: 7.5}
+      - {x: -85.5, y: 9.5}
+    - - {x: -84.5, y: -0.5}
+      - {x: -82.5, y: -3.5}
+      - {x: -57.5, y: -3.5}
+      - {x: -54.5, y: -2.5}
+      - {x: -54.5, y: 4.5}
+      - {x: -58.5, y: 9.5}
+      - {x: -78.5, y: 9.5}
+      - {x: -84.5, y: 5.5}
+    - - {x: -48.5, y: 9.5}
+      - {x: -53.5, y: 5.5}
+      - {x: -53.5, y: 1.5}
+      - {x: -50.5, y: -3.5}
+      - {x: -27.5, y: -3.5}
+      - {x: -25.5, y: 1.5}
+      - {x: -25.5, y: 7.5}
+      - {x: -28.5, y: 9.5}
+    - - {x: -136.5, y: 10.5}
+      - {x: -142.5, y: 6.5}
+      - {x: -142.5, y: 3.5}
+      - {x: -136.5, y: -2.5}
+      - {x: -116.5, y: -2.5}
+      - {x: -115.5, y: 0.5}
+      - {x: -115.5, y: 8.5}
+      - {x: -116.5, y: 10.5}
+    - - {x: -320.5, y: 106.5}
+      - {x: -354.5, y: 106.5}
+      - {x: -362.5, y: 95.5}
+      - {x: -362.5, y: 57.5}
+      - {x: -328.5, y: 57.5}
+      - {x: -316.5, y: 69.5}
+      - {x: -316.5, y: 104.5}
+    - - {x: -264.5, y: 101.5}
+      - {x: -289.5, y: 101.5}
+      - {x: -306.5, y: 87.5}
+      - {x: -306.5, y: 63.5}
+      - {x: -296.5, y: 57.5}
+      - {x: -254.5, y: 57.5}
+      - {x: -247.5, y: 65.5}
+      - {x: -247.5, y: 80.5}
+      - {x: -256.5, y: 99.5}
+    - - {x: -211.5, y: 95.5}
+      - {x: -223.5, y: 95.5}
+      - {x: -232.5, y: 86.5}
+      - {x: -232.5, y: 57.5}
+      - {x: -183.5, y: 57.5}
+      - {x: -183.5, y: 67.5}
+      - {x: -192.5, y: 84.5}
+    - - {x: 130.5, y: 103.5}
+      - {x: 115.5, y: 98.5}
+      - {x: 115.5, y: 57.5}
+      - {x: 164.5, y: 57.5}
+      - {x: 164.5, y: 95.5}
+      - {x: 142.5, y: 103.5}
+    - - {x: 176.5, y: 103.5}
+      - {x: 165.5, y: 99.5}
+      - {x: 165.5, y: 57.5}
+      - {x: 214.5, y: 57.5}
+      - {x: 214.5, y: 95.5}
+      - {x: 194.5, y: 103.5}
+    - - {x: -319.5, y: 160.5}
+      - {x: -330.5, y: 162.5}
+      - {x: -358.5, y: 162.5}
+      - {x: -363.5, y: 156.5}
+      - {x: -363.5, y: 115.5}
+      - {x: -358.5, y: 114.5}
+      - {x: -328.5, y: 114.5}
+      - {x: -322.5, y: 116.5}
+      - {x: -319.5, y: 119.5}
+    - - {x: -312.5, y: 123.5}
+      - {x: -308.5, y: 114.5}
+      - {x: -269.5, y: 114.5}
+      - {x: -269.5, y: 155.5}
+      - {x: -270.5, y: 158.5}
+      - {x: -279.5, y: 162.5}
+      - {x: -308.5, y: 162.5}
+      - {x: -312.5, y: 156.5}
+    - - {x: -214.5, y: 149.5}
+      - {x: -217.5, y: 155.5}
+      - {x: -237.5, y: 162.5}
+      - {x: -248.5, y: 162.5}
+      - {x: -253.5, y: 158.5}
+      - {x: -257.5, y: 155.5}
+      - {x: -257.5, y: 115.5}
+      - {x: -256.5, y: 114.5}
+      - {x: -234.5, y: 114.5}
+      - {x: -218.5, y: 116.5}
+      - {x: -215.5, y: 119.5}
+      - {x: -215.5, y: 125.5}
+      - {x: -214.5, y: 129.5}
+    - - {x: -195.5, y: 162.5}
+      - {x: -203.5, y: 156.5}
+      - {x: -203.5, y: 115.5}
+      - {x: -200.5, y: 114.5}
+      - {x: -164.5, y: 114.5}
+      - {x: -160.5, y: 118.5}
+      - {x: -160.5, y: 160.5}
+      - {x: -171.5, y: 162.5}
+    - - {x: -149.5, y: 162.5}
+      - {x: -153.5, y: 156.5}
+      - {x: -153.5, y: 117.5}
+      - {x: -152.5, y: 114.5}
+      - {x: -110.5, y: 114.5}
+      - {x: -110.5, y: 153.5}
+      - {x: -122.5, y: 162.5}
+    - - {x: -96.5, y: 162.5}
+      - {x: -96.5, y: 114.5}
+      - {x: -54.5, y: 114.5}
+      - {x: -52.5, y: 116.5}
+      - {x: -52.5, y: 154.5}
+      - {x: -59.5, y: 162.5}
+    - - {x: 81.5, y: 145.5}
+      - {x: 75.5, y: 135.5}
+      - {x: 75.5, y: 124.5}
+      - {x: 81.5, y: 115.5}
+      - {x: 93.5, y: 115.5}
+      - {x: 95.5, y: 116.5}
+      - {x: 95.5, y: 120.5}
+      - {x: 88.5, y: 145.5}
+    - - {x: 102.5, y: 145.5}
+      - {x: 96.5, y: 145.5}
+      - {x: 96.5, y: 133.5}
+      - {x: 106.5, y: 115.5}
+      - {x: 121.5, y: 115.5}
+      - {x: 122.5, y: 117.5}
+      - {x: 122.5, y: 122.5}
+      - {x: 106.5, y: 143.5}
+    - - {x: 135.5, y: 146.5}
+      - {x: 128.5, y: 146.5}
+      - {x: 122.5, y: 139.5}
+      - {x: 122.5, y: 127.5}
+      - {x: 127.5, y: 115.5}
+      - {x: 140.5, y: 115.5}
+      - {x: 142.5, y: 116.5}
+      - {x: 142.5, y: 120.5}
+      - {x: 137.5, y: 139.5}
+    - - {x: 143.5, y: 146.5}
+      - {x: 143.5, y: 135.5}
+      - {x: 153.5, y: 115.5}
+      - {x: 169.5, y: 115.5}
+      - {x: 169.5, y: 120.5}
+      - {x: 150.5, y: 146.5}
+    - - {x: 167.5, y: 123.5}
+      - {x: 173.5, y: 116.5}
+      - {x: 187.5, y: 116.5}
+      - {x: 187.5, y: 125.5}
+      - {x: 180.5, y: 148.5}
+      - {x: 170.5, y: 148.5}
+      - {x: 167.5, y: 139.5}
+    - - {x: 188.5, y: 148.5}
+      - {x: 188.5, y: 139.5}
+      - {x: 197.5, y: 116.5}
+      - {x: 214.5, y: 116.5}
+      - {x: 214.5, y: 123.5}
+      - {x: 195.5, y: 148.5}
+    - - {x: 242.5, y: 136.5}
+      - {x: 240.5, y: 126.5}
+      - {x: 240.5, y: 119.5}
+      - {x: 241.5, y: 118.5}
+      - {x: 250.5, y: 118.5}
+      - {x: 256.5, y: 123.5}
+      - {x: 256.5, y: 133.5}
+      - {x: 250.5, y: 136.5}
+    - - {x: 276.5, y: 137.5}
+      - {x: 265.5, y: 128.5}
+      - {x: 265.5, y: 121.5}
+      - {x: 268.5, y: 119.5}
+      - {x: 279.5, y: 119.5}
+      - {x: 283.5, y: 129.5}
+      - {x: 283.5, y: 136.5}
+      - {x: 282.5, y: 137.5}
+    - - {x: 260.5, y: 155.5}
+      - {x: 253.5, y: 153.5}
+      - {x: 253.5, y: 135.5}
+      - {x: 261.5, y: 135.5}
+      - {x: 269.5, y: 147.5}
+      - {x: 269.5, y: 155.5}
+    - - {x: 232.5, y: 146.5}
+      - {x: 232.5, y: 136.5}
+      - {x: 242.5, y: 136.5}
+      - {x: 250.5, y: 144.5}
+      - {x: 250.5, y: 156.5}
+      - {x: 242.5, y: 156.5}
+      - {x: 233.5, y: 152.5}
+    - - {x: 325.5, y: 159.5}
+      - {x: 317.5, y: 158.5}
+      - {x: 315.5, y: 155.5}
+      - {x: 315.5, y: 147.5}
+      - {x: 335.5, y: 136.5}
+      - {x: 341.5, y: 136.5}
+      - {x: 342.5, y: 138.5}
+      - {x: 342.5, y: 148.5}
+      - {x: 330.5, y: 159.5}
+    - - {x: 311.5, y: 140.5}
+      - {x: 311.5, y: 156.5}
+      - {x: 306.5, y: 161.5}
+      - {x: 291.5, y: 161.5}
+      - {x: 282.5, y: 154.5}
+      - {x: 282.5, y: 140.5}
+    - - {x: 77.5, y: 167.5}
+      - {x: 71.5, y: 159.5}
+      - {x: 71.5, y: 150.5}
+      - {x: 85.5, y: 150.5}
+      - {x: 86.5, y: 153.5}
+      - {x: 86.5, y: 166.5}
+      - {x: 85.5, y: 167.5}
+    - - {x: 99.5, y: 166.5}
+      - {x: 98.5, y: 163.5}
+      - {x: 98.5, y: 157.5}
+      - {x: 103.5, y: 150.5}
+      - {x: 114.5, y: 150.5}
+      - {x: 115.5, y: 151.5}
+      - {x: 115.5, y: 165.5}
+      - {x: 111.5, y: 166.5}
+    - - {x: 125.5, y: 168.5}
+      - {x: 118.5, y: 160.5}
+      - {x: 118.5, y: 150.5}
+      - {x: 133.5, y: 150.5}
+      - {x: 133.5, y: 168.5}
+    - - {x: 157.5, y: 166.5}
+      - {x: 154.5, y: 167.5}
+      - {x: 147.5, y: 167.5}
+      - {x: 145.5, y: 162.5}
+      - {x: 145.5, y: 159.5}
+      - {x: 149.5, y: 150.5}
+      - {x: 160.5, y: 150.5}
+      - {x: 162.5, y: 152.5}
+      - {x: 162.5, y: 156.5}
+    - - {x: 174.5, y: 169.5}
+      - {x: 169.5, y: 166.5}
+      - {x: 165.5, y: 158.5}
+      - {x: 165.5, y: 150.5}
+      - {x: 179.5, y: 150.5}
+      - {x: 180.5, y: 154.5}
+      - {x: 180.5, y: 169.5}
+    - - {x: 192.5, y: 157.5}
+      - {x: 197.5, y: 150.5}
+      - {x: 209.5, y: 150.5}
+      - {x: 209.5, y: 161.5}
+      - {x: 208.5, y: 164.5}
+      - {x: 199.5, y: 168.5}
+      - {x: 194.5, y: 168.5}
+      - {x: 192.5, y: 165.5}
+    - - {x: 282.5, y: 190.5}
+      - {x: 275.5, y: 188.5}
+      - {x: 271.5, y: 190.5}
+      - {x: 269.5, y: 192.5}
+      - {x: 270.5, y: 190.5}
+      - {x: 276.5, y: 188.5}
+      - {x: 285.5, y: 193.5}
+      - {x: 288.5, y: 197.5}
+      - {x: 288.5, y: 203.5}
+      - {x: 287.5, y: 204.5}
+      - {x: 226.5, y: 204.5}
+      - {x: 226.5, y: 180.5}
+      - {x: 229.5, y: 173.5}
+      - {x: 288.5, y: 173.5}
+      - {x: 288.5, y: 189.5}
+      - {x: 287.5, y: 191.5}
+    - - {x: 302.5, y: 195.5}
+      - {x: 302.5, y: 199.5}
+      - {x: 296.5, y: 204.5}
+      - {x: 290.5, y: 204.5}
+      - {x: 288.5, y: 202.5}
+      - {x: 288.5, y: 176.5}
+      - {x: 289.5, y: 174.5}
+      - {x: 293.5, y: 174.5}
+      - {x: 299.5, y: 176.5}
+      - {x: 302.5, y: 181.5}
+      - {x: 302.5, y: 184.5}
+      - {x: 298.5, y: 188.5}
+    - - {x: 312.5, y: 190.5}
+      - {x: 300.5, y: 190.5}
+      - {x: 300.5, y: 185.5}
+      - {x: 309.5, y: 175.5}
+      - {x: 317.5, y: 175.5}
+      - {x: 323.5, y: 179.5}
+      - {x: 323.5, y: 188.5}
+    - - {x: 181.5, y: 197.5}
+      - {x: 180.5, y: 196.5}
+      - {x: 180.5, y: 180.5}
+      - {x: 188.5, y: 177.5}
+      - {x: 201.5, y: 177.5}
+      - {x: 202.5, y: 179.5}
+      - {x: 202.5, y: 193.5}
+      - {x: 200.5, y: 197.5}
+    - - {x: 137.5, y: 198.5}
+      - {x: 134.5, y: 193.5}
+      - {x: 134.5, y: 181.5}
+      - {x: 137.5, y: 178.5}
+      - {x: 174.5, y: 178.5}
+      - {x: 177.5, y: 183.5}
+      - {x: 177.5, y: 195.5}
+      - {x: 172.5, y: 198.5}
+    - - {x: 85.5, y: 199.5}
+      - {x: 82.5, y: 194.5}
+      - {x: 82.5, y: 184.5}
+      - {x: 89.5, y: 179.5}
+      - {x: 102.5, y: 179.5}
+      - {x: 104.5, y: 185.5}
+      - {x: 104.5, y: 196.5}
+      - {x: 99.5, y: 199.5}
+    - - {x: 115.5, y: 199.5}
+      - {x: 111.5, y: 197.5}
+      - {x: 111.5, y: 185.5}
+      - {x: 118.5, y: 179.5}
+      - {x: 128.5, y: 179.5}
+      - {x: 133.5, y: 183.5}
+      - {x: 133.5, y: 194.5}
+      - {x: 130.5, y: 199.5}
+    - - {x: 312.5, y: 204.5}
+      - {x: 300.5, y: 204.5}
+      - {x: 300.5, y: 199.5}
+      - {x: 309.5, y: 189.5}
+      - {x: 317.5, y: 189.5}
+      - {x: 323.5, y: 193.5}
+      - {x: 323.5, y: 202.5}
+    - - {x: -325.5, y: 237.5}
+      - {x: -338.5, y: 237.5}
+      - {x: -351.5, y: 231.5}
+      - {x: -351.5, y: 191.5}
+      - {x: -302.5, y: 191.5}
+      - {x: -302.5, y: 202.5}
+      - {x: -308.5, y: 222.5}
+    - - {x: -252.5, y: 236.5}
+      - {x: -278.5, y: 236.5}
+      - {x: -287.5, y: 229.5}
+      - {x: -287.5, y: 191.5}
+      - {x: -237.5, y: 191.5}
+      - {x: -237.5, y: 216.5}
+      - {x: -243.5, y: 235.5}
+    - - {x: -186.5, y: 215.5}
+      - {x: -186.5, y: 214.5}
+      - {x: -185.5, y: 211.5}
+      - {x: -181.5, y: 211.5}
+      - {x: -177.5, y: 212.5}
+      - {x: -177.5, y: 215.5}
+      - {x: -186.5, y: 230.5}
+      - {x: -200.5, y: 237.5}
+      - {x: -211.5, y: 237.5}
+      - {x: -226.5, y: 231.5}
+      - {x: -226.5, y: 191.5}
+      - {x: -177.5, y: 191.5}
+      - {x: -177.5, y: 198.5}
+      - {x: -186.5, y: 213.5}
+    - - {x: -158.5, y: 238.5}
+      - {x: -171.5, y: 231.5}
+      - {x: -171.5, y: 192.5}
+      - {x: -169.5, y: 191.5}
+      - {x: -122.5, y: 191.5}
+      - {x: -122.5, y: 223.5}
+      - {x: -144.5, y: 238.5}
+    - - {x: -23.5, y: 215.5}
+      - {x: -30.5, y: 207.5}
+      - {x: -30.5, y: 197.5}
+      - {x: -15.5, y: 197.5}
+      - {x: -15.5, y: 215.5}
+    - - {x: 3.5, y: 214.5}
+      - {x: -1.5, y: 214.5}
+      - {x: -3.5, y: 210.5}
+      - {x: -3.5, y: 205.5}
+      - {x: 0.5, y: 197.5}
+      - {x: 12.5, y: 197.5}
+      - {x: 13.5, y: 198.5}
+      - {x: 13.5, y: 205.5}
+      - {x: 8.5, y: 213.5}
+    - - {x: 116.5, y: 249.5}
+      - {x: 102.5, y: 242.5}
+      - {x: 102.5, y: 210.5}
+      - {x: 138.5, y: 210.5}
+      - {x: 138.5, y: 249.5}
+    - - {x: 161.5, y: 252.5}
+      - {x: 152.5, y: 247.5}
+      - {x: 152.5, y: 213.5}
+      - {x: 180.5, y: 213.5}
+      - {x: 188.5, y: 221.5}
+      - {x: 188.5, y: 244.5}
+      - {x: 181.5, y: 252.5}
+    - - {x: 296.5, y: 244.5}
+      - {x: 290.5, y: 236.5}
+      - {x: 290.5, y: 226.5}
+      - {x: 294.5, y: 215.5}
+      - {x: 300.5, y: 213.5}
+      - {x: 307.5, y: 213.5}
+      - {x: 309.5, y: 214.5}
+      - {x: 309.5, y: 229.5}
+      - {x: 306.5, y: 244.5}
+    - - {x: 316.5, y: 244.5}
+      - {x: 316.5, y: 233.5}
+      - {x: 325.5, y: 214.5}
+      - {x: 337.5, y: 214.5}
+      - {x: 338.5, y: 216.5}
+      - {x: 338.5, y: 227.5}
+      - {x: 324.5, y: 244.5}
+    - - {x: 338.5, y: 244.5}
+      - {x: 338.5, y: 233.5}
+      - {x: 347.5, y: 214.5}
+      - {x: 359.5, y: 214.5}
+      - {x: 360.5, y: 216.5}
+      - {x: 360.5, y: 227.5}
+      - {x: 346.5, y: 244.5}
+    - - {x: 74.5, y: 248.5}
+      - {x: 63.5, y: 242.5}
+      - {x: 61.5, y: 227.5}
+      - {x: 61.5, y: 217.5}
+      - {x: 65.5, y: 215.5}
+      - {x: 94.5, y: 215.5}
+      - {x: 94.5, y: 248.5}
+    - - {x: 215.5, y: 255.5}
+      - {x: 203.5, y: 247.5}
+      - {x: 203.5, y: 219.5}
+      - {x: 208.5, y: 216.5}
+      - {x: 224.5, y: 216.5}
+      - {x: 233.5, y: 218.5}
+      - {x: 238.5, y: 224.5}
+      - {x: 238.5, y: 242.5}
+      - {x: 228.5, y: 255.5}
+    - - {x: -25.5, y: 251.5}
+      - {x: -31.5, y: 244.5}
+      - {x: -31.5, y: 232.5}
+      - {x: -26.5, y: 220.5}
+      - {x: -13.5, y: 220.5}
+      - {x: -11.5, y: 221.5}
+      - {x: -11.5, y: 225.5}
+      - {x: -18.5, y: 251.5}
+    - - {x: -10.5, y: 251.5}
+      - {x: -10.5, y: 240.5}
+      - {x: -0.5, y: 220.5}
+      - {x: 15.5, y: 220.5}
+      - {x: 15.5, y: 225.5}
+      - {x: -3.5, y: 251.5}
+    - - {x: 21.5, y: 238.5}
+      - {x: 18.5, y: 235.5}
+      - {x: 18.5, y: 225.5}
+      - {x: 21.5, y: 223.5}
+      - {x: 29.5, y: 223.5}
+      - {x: 30.5, y: 226.5}
+      - {x: 30.5, y: 238.5}
+    - - {x: 23.5, y: 251.5}
+      - {x: 18.5, y: 247.5}
+      - {x: 19.5, y: 243.5}
+      - {x: 26.5, y: 241.5}
+      - {x: 31.5, y: 241.5}
+      - {x: 33.5, y: 245.5}
+      - {x: 33.5, y: 246.5}
+      - {x: 27.5, y: 251.5}
+    - - {x: 34.5, y: 260.5}
+      - {x: 32.5, y: 258.5}
+      - {x: 33.5, y: 249.5}
+      - {x: 35.5, y: 248.5}
+      - {x: 43.5, y: 248.5}
+      - {x: 45.5, y: 249.5}
+      - {x: 45.5, y: 254.5}
+      - {x: 41.5, y: 260.5}
+    - - {x: 204.5, y: 277.5}
+      - {x: 193.5, y: 277.5}
+      - {x: 184.5, y: 274.5}
+      - {x: 184.5, y: 264.5}
+      - {x: 191.5, y: 256.5}
+      - {x: 196.5, y: 256.5}
+      - {x: 204.5, y: 257.5}
+      - {x: 206.5, y: 259.5}
+      - {x: 206.5, y: 274.5}
+    - - {x: 292.5, y: 276.5}
+      - {x: 286.5, y: 271.5}
+      - {x: 286.5, y: 259.5}
+      - {x: 291.5, y: 256.5}
+      - {x: 303.5, y: 256.5}
+      - {x: 308.5, y: 261.5}
+      - {x: 308.5, y: 272.5}
+      - {x: 304.5, y: 276.5}
+    - - {x: 140.5, y: 278.5}
+      - {x: 133.5, y: 276.5}
+      - {x: 133.5, y: 261.5}
+      - {x: 139.5, y: 257.5}
+      - {x: 172.5, y: 257.5}
+      - {x: 176.5, y: 258.5}
+      - {x: 176.5, y: 278.5}
+    - - {x: 220.5, y: 278.5}
+      - {x: 212.5, y: 276.5}
+      - {x: 212.5, y: 263.5}
+      - {x: 215.5, y: 257.5}
+      - {x: 234.5, y: 257.5}
+      - {x: 234.5, y: 276.5}
+      - {x: 233.5, y: 278.5}
+    - - {x: 261.5, y: 262.5}
+      - {x: 263.5, y: 257.5}
+      - {x: 275.5, y: 257.5}
+      - {x: 283.5, y: 261.5}
+      - {x: 283.5, y: 273.5}
+      - {x: 282.5, y: 277.5}
+      - {x: 266.5, y: 277.5}
+      - {x: 261.5, y: 273.5}
+    - - {x: 312.5, y: 277.5}
+      - {x: 309.5, y: 271.5}
+      - {x: 309.5, y: 260.5}
+      - {x: 311.5, y: 257.5}
+      - {x: 326.5, y: 257.5}
+      - {x: 331.5, y: 259.5}
+      - {x: 331.5, y: 275.5}
+      - {x: 329.5, y: 277.5}
+    - - {x: 340.5, y: 277.5}
+      - {x: 337.5, y: 271.5}
+      - {x: 337.5, y: 261.5}
+      - {x: 342.5, y: 257.5}
+      - {x: 355.5, y: 257.5}
+      - {x: 359.5, y: 261.5}
+      - {x: 359.5, y: 277.5}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
